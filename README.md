@@ -9,7 +9,7 @@
 
 |No.|구분|디자인 패턴|작성자|Comment|
 |-|-|-|-|-|
-|1|생성 패턴|Factory Method|@just1103||
+|1|생성 패턴|[Factory Method](https://github.com/just1103/cracking_design_patterns/issues/1)|@just1103||
 |2||Abstract Factory|@just1103||
 |3||Builder|@just1103|KinesisLogger에 적용|
 |4||Prototype|@just1103||
